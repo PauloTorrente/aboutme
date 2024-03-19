@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ff0000; 
+}
+
+header {
+    background-color:#fbf233; 
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+main {
+    padding: 20px;
+}
+
+.formulario {
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.formulario h2 {
+    margin-bottom: 20px;
+}
