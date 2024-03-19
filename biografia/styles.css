@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url("./bandeira.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+
+}
+
+header {
+    background-color: #fdcf0b;
+    padding: 20px;
+    text-align: center;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    padding: 20px;
+    padding-bottom: 250px;
+}
+
+.bio {
+    text-align: justify;
+    color: #ffffff;
+}
+
+footer {
+    background-color: #c4161c; 
+    color: #000000;
+    text-align: center;
+    padding: 20px;
+}
